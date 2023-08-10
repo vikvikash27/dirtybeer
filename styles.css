@@ -50,7 +50,7 @@ html, body{
 }
 
 .main-header{
-			 background-color: yellow;
+			 background-color: rgb(8, 0, 0);
 			 padding-bottom:30px;
 			 background-image: url("Images/background.jpg");
 			 background-blend-mode: multiply;
