@@ -100,6 +100,7 @@ html, body{
 	background-color: green;
 	color:white;
 	padding: .25em 0;
+	align-content: center;
 }
 
 .main-footer-container{
